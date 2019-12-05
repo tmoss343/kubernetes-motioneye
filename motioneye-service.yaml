@@ -8,6 +8,6 @@ spec:
   type: NodePort
   ports:
     - port: 8765
-      nodePort: 33080
+      nodePort: 31180
   selector:
     app: motioneye
